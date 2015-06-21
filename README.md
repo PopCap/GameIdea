@@ -1,2 +1,2 @@
 # GameIdea
-Our Video Game Idea
+Specifics aboiut the game will be posted in here.
